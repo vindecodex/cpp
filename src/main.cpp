@@ -1,5 +1,6 @@
 #include <iostream>
 
+// function declarations
 void Log(const char* message);
 
 int main() {
