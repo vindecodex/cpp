@@ -11,3 +11,7 @@ My very first exploration with c++
 ##### Suggestion
 
 It is better to use CMake instead for best practice.
+
+#### Sources
+
+[The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
