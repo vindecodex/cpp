@@ -18,3 +18,29 @@ int main() {
 }
 ```
 
+Types in pointer does not matter.
+
+```c++
+int main() {
+    int num = 10;
+    int* ptr = &num; // this is going to work
+    double* ptr = (double*)&num; // this is still going to work
+}
+```
+
+Manipulating the value of the address.
+
+```c++
+#include <iostream>
+
+int main() {
+	int num = 10;
+	int* ptr = &num;
+	*ptr = 11; // using * we are manipulating value of num;
+	std::cout << num;
+}
+```
+
+`&` - represents the address
+
+`*` - represents the value of the address
