@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "4a1d99a3caf78775",
+    "type": "split",
+    "children": [
+      {
+        "id": "08271ae35a08c5ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ae233b2be784ad2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c866b5adfe5a06d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fba438cfd004975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91a11bdebb29317f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e019778cac82fe84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1385a3908b41a00e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "0b1fcce33e12456e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d26ec7f10453074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "750cd3004f06cee7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e9888a0d137fb5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "443f1560ae7d9703",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f82a4b4da4c16cc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5ae233b2be784ad2",
+  "lastOpenFiles": [
+    "Variables.md",
+    "Static Class and Struct.md",
+    "Untitled.md",
+    "Static.md",
+    "References.md",
+    "Pointers.md",
+    "Loops.md",
+    "Header Files.md",
+    "Conditions and branches.md",
+    "Learn C++",
+    "Classes vs Structs.md",
+    "Classes.md",
+    "Functions.md",
+    "2023-10-10.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}
