@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn C++/Common Data Types Used.md",
+                "file": "Learn C++/Function Overloading.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 258.5
   },
   "right": {
     "id": "0b1fcce33e12456e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn C++/Common Data Types Used.md",
+                "file": "Learn C++/Function Overloading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn C++/Common Data Types Used.md",
+                "file": "Learn C++/Function Overloading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn C++/Common Data Types Used.md"
+                "file": "Learn C++/Function Overloading.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "5ae233b2be784ad2",
   "lastOpenFiles": [
+    "Functions.md",
+    "Learn C++/Function Overloading.md",
     "Control Flow.md",
-    "Conditions and branches.md",
     "Classes vs Structs.md",
-    "Classes.md",
     "Learn C++/Common Data Types Used.md",
+    "Conditions and branches.md",
+    "Classes.md",
     "Variables.md",
     "Static Class and Struct.md",
     "Untitled.md",
@@ -162,7 +164,6 @@
     "Loops.md",
     "Header Files.md",
     "Learn C++",
-    "Functions.md",
     "2023-10-10.md",
     "Untitled.canvas",
     "Untitled 1.canvas",

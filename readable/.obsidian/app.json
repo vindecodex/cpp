@@ -2,5 +2,9 @@
   "showLineNumber": false,
   "vimMode": true,
   "tabSize": 2,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "showIndentGuide": true,
+  "rightToLeft": false
 }
