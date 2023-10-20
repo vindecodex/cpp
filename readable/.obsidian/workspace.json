@@ -11,8 +11,12 @@
             "id": "5ae233b2be784ad2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learn C++/Common Data Types Used.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learn C++/Common Data Types Used.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learn C++/Common Data Types Used.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learn C++/Common Data Types Used.md"
+              }
             }
           }
         ]
@@ -140,6 +148,11 @@
   },
   "active": "5ae233b2be784ad2",
   "lastOpenFiles": [
+    "Control Flow.md",
+    "Conditions and branches.md",
+    "Classes vs Structs.md",
+    "Classes.md",
+    "Learn C++/Common Data Types Used.md",
     "Variables.md",
     "Static Class and Struct.md",
     "Untitled.md",
@@ -148,10 +161,7 @@
     "Pointers.md",
     "Loops.md",
     "Header Files.md",
-    "Conditions and branches.md",
     "Learn C++",
-    "Classes vs Structs.md",
-    "Classes.md",
     "Functions.md",
     "2023-10-10.md",
     "Untitled.canvas",
